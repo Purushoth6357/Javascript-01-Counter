@@ -1,0 +1,25 @@
+
+
+h1{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    text-align: center;
+    padding:  10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(15, 169, 230);
+    border: none;
+    border-radius: 2em;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+button:hover{
+    background-color: rgb(6, 98, 134);;
+}
+
